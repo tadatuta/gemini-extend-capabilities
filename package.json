@@ -1,0 +1,18 @@
+{
+  "name": "gemini-extend-capabilities",
+  "version": "1.0.0",
+  "description": "Extend desiredCapabilities entry of gemini config",
+  "main": "index.js",
+  "bin": {
+    "gemini-extend-capabilities": "./bin/gemini-extend-capabilities"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["gemini", "soucelabs", "travis"],
+  "author": "Vladimir Grinenko",
+  "license": "MIT",
+  "dependencies": {
+    "yamljs": "^0.2.4"
+  }
+}
